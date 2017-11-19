@@ -9,8 +9,8 @@ public class Programa {
 		   Valores nuevos para modificar los 
 		   atributos del objeto p2 de la clase persona */
 		
-		String nuevoNombre = "Pepe";
-		int nuevaEdad = 80;
+		String nuevoNombre = "Pepe Antonio";
+		int nuevaEdad = 30;
 		
 		/* Declaración de los objetos p1 y p2 de la clase Persona
 		   se usan los dos constructores creados */
